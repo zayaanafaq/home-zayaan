@@ -1,0 +1,10 @@
+h1{
+  text-align: center;
+  color:#5a4d4d;
+  font-family:times;
+  font-size:75px;
+}
+  body{
+    background-image: url("1.jpg");
+    background-size: cover;
+  }
